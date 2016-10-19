@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Bg.jpg</file>
+        <file>btnClear.png</file>
+        <file>btnHover.png</file>
+        <file>O.png</file>
+        <file>quitBtn.png</file>
+        <file>quitBtnHover.png</file>
+        <file>SearchBg.png</file>
+        <file>stepInO.png</file>
+        <file>stepInX.png</file>
+        <file>X.png</file>
+    </qresource>
+</RCC>
